@@ -1,0 +1,52 @@
+.cardMusculos {
+   border-radius: 6px;
+    width: 200px;
+    background-color: #131827;
+    color: white;
+    padding: 0em 2.3em;
+    padding-top: 1em;
+}
+
+
+.cardMusculos p {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.section-btn-musculos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnCardMusculo {
+    border-radius: 4px;
+    background-color: #EBECED;
+    width: 100px;
+    padding: .6em 1.5em;
+    margin-bottom: .6em;
+    margin-top: .6em;
+    color: black;
+    font-weight: bolder;
+}
+
+.nivel-ejercicio {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    color:#374A59;
+    text-align: start;
+    margin-top: 1em;
+    gap: .3em;
+}
+
+
+.nivel-ejercicio span {
+    font-size: 20px;
+}
+
+.nivel-ejercicio p {
+    position: relative;
+    top: -5px;
+}
